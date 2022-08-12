@@ -1,7 +1,7 @@
 ### 😺 Heya!! 😺
 
 <h3>This is under the works rn so check back later or dont.</h3>
-
+<h4>All repositories are currently hidden cause why not</h4>
 
 
 <!--
