@@ -1,9 +1,10 @@
-### 😺 Heya!! 😺
+wow
 
-<h3>This is under the works rn so check back later or dont.</h3>
-<h4>All repositories are currently hidden cause why not</h4>
-<h5>Don't mind this horrible code, but to get to know me on here, I'm mostly interested in the backend aspects of web development. I am horrible with front end because I can't make anything look nice. I also do a bit of other stuff like java and other poopy languages. PHP is an okay language I use but its also not very great. ok bye</h5>
 
+📫 How to reach me: xijinping.ccppresident@nuke.africa
+💬 Ask me about 99.99% isopropyl alcohol
+⚡ Fun fact: 100% of people in the US are either alive or dead
+😄 Pronouns: he/him/they/them
 
 <!--
 **kyrofx/kyrofx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
