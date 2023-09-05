@@ -7,7 +7,6 @@ I'm a student interested in software, hardware, and IT.
 * 🌍  I'm based in San jose, California
  * 🖥️  See my portfolio at [kyro.dog](http://kyro.dog)
 * ✉️  You can contact me at [estin@duck.com](mailto:estin@duck.com) or @kyrofx on Discord
-* 🚀  I'm currently working on [Cheesy Care on the web](http://cheesyc.kyro.dog)
  * 🧠  I'm learning Mojo!
  * ⚡  I'm deeply in love with B Miller from Design Tech High school
 
